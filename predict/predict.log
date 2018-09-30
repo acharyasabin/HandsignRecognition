@@ -1,0 +1,12 @@
+2018-09-28 09:37:23,004:INFO: Restoring parameters from experiments/test/best_weights/after-epoch-10
+2018-09-28 09:37:23,915:INFO: - Eval metrics: accuracy: 0.000 ; loss: 5.659
+2018-09-28 09:37:24,176:INFO: Restoring parameters from experiments/test/best_weights/after-epoch-10
+2018-09-28 09:37:24,339:INFO: - Eval metrics: accuracy: 1.000 ; loss: 0.280
+2018-09-28 09:37:24,585:INFO: Restoring parameters from experiments/test/best_weights/after-epoch-10
+2018-09-28 09:37:24,746:INFO: - Eval metrics: accuracy: 0.000 ; loss: 4.357
+2018-09-28 09:37:24,990:INFO: Restoring parameters from experiments/test/best_weights/after-epoch-10
+2018-09-28 09:37:25,160:INFO: - Eval metrics: accuracy: 0.000 ; loss: 1.488
+2018-09-28 09:37:25,415:INFO: Restoring parameters from experiments/test/best_weights/after-epoch-10
+2018-09-28 09:37:25,593:INFO: - Eval metrics: accuracy: 0.000 ; loss: 10.083
+2018-09-28 09:37:25,849:INFO: Restoring parameters from experiments/test/best_weights/after-epoch-10
+2018-09-28 09:37:26,041:INFO: - Eval metrics: accuracy: 0.000 ; loss: 6.062
